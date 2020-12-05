@@ -517,7 +517,7 @@
     margin-top: -20px;
   }
   .build__text p{
-    font-size: 14px;
+    font-size: 16px;
   }
   .build__text span{
     text-align: center;
@@ -554,7 +554,7 @@
   }
   }
   .composition__box-list li{
-    font-size: 13px;
+    font-size: 16px;
     padding-left: 15px;
   }
   .composition__item{
@@ -585,7 +585,7 @@
     text-align: center;
   }
   .composition__link p{
-    font-size: 13px;
+    font-size: 16px;
     line-height: 23px;
   }
   .composition__item-inner{
@@ -668,11 +668,11 @@
     padding-right: 65px;
   }
   .history__text {
-    padding-bottom: 690px;
+    padding-bottom: 760px;
     padding-left: 25px;
   }
   .history__text p{
-    font-size: 14px;
+    font-size: 16px;
   }
   .history__title{
     font-size: 28px;
@@ -707,14 +707,14 @@
   .popularity__box-text {
     padding: 10px 10px 10px 10px;
     border: none;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
   }
   .popularity__right-list li {
     margin-bottom: 20px;
   }
   .popularity__right-list {
-    font-size: 13px;
+    font-size: 15px;
   }
   .popularity__right-subtitle {
     font-size: 14px;
